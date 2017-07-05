@@ -4,7 +4,7 @@
   "description": "A simple array module for practice",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha **/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/myongjailee/mlee-array-module/issues"
   },
-  "homepage": "https://github.com/myongjailee/mlee-array-module#readme"
+  "homepage": "https://github.com/myongjailee/mlee-array-module#readme",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.4.2"
+  }
 }
