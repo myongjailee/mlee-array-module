@@ -1,0 +1,19 @@
+{
+  "name": "mlee-array-module",
+  "version": "1.0.0",
+  "description": "A simple array module for practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myongjailee/mlee-array-module.git"
+  },
+  "author": "mlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myongjailee/mlee-array-module/issues"
+  },
+  "homepage": "https://github.com/myongjailee/mlee-array-module#readme"
+}
